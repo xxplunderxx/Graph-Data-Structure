@@ -1,0 +1,18 @@
+
+Number of verticies in the Graph: 7
+
+------ Graph ------
+A; B, C, E, 
+B; A, D, F, 
+C; A, G, 
+D; B, 
+E; A, F, 
+F; B, E, 
+G; C, 
+------ end of Graph ------
+
+------ traverse of Graph ------
+A B D F E C G 
+(A, B) (B, D) (B, F) (F, E) (A, C) (C, G) 
+--------- end of traverse -------
+
